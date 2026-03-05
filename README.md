@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Hiwot 👋
+🎓 Information Technology Student  
+💻 Aspiring Full-Stack Web Developer  
+🌍 Passionate about Technology and Women
+## Technical Skills
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Database Systems
+## Current Focus
+- Improving full-stack development skills
+- Building real-world web applications
+- Learning backend frameworks
+## Goals
+To grow as a professional software developer and contribute to impactful technology solutions.
 
-<!--
-**hiwot1181-hub/hiwot1181-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
